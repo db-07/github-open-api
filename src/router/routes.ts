@@ -15,4 +15,4 @@ const routes: Readonly<RouteRecordRaw[]> = [
   },
 ]
 
-export default routes;
+export default routes as any;
